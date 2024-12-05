@@ -5,7 +5,6 @@
 - In this project, we leverage the power of SQL to extract valuable information from a dataset, allowing us to uncover patterns, trends, and relationships within the data.
 
 # Project Objective
-- The primary objective of this SQL project is to [briefly describe the overarching goal of your analysis].
 - We aim to answer specific questions, solve business problems, or gain a deeper understanding of the dataset through the application of SQL queries and analysis techniques.
 
 # Methodology
